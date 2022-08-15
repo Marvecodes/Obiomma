@@ -1,10 +1,13 @@
 Hi There!
 
 - I'm a Software Engineer, Content Writer, and a Bioinformatics student. I recently began my frontend journey and i am looking forward to learning and growing here. 
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT and looking to collaborate and would love to connect!
 
-😊Pronouns: She/her
-🧧Reach me: marvellouschukueggu@gmail.com
+😊 Pronouns: She/her <br>
+🧧 Reach me: marvellouschukueggu@gmail.com
+💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
+🌱 I’m currently learning JavaScript, Reactjs, and Python.
+😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
 
 
 <!---
